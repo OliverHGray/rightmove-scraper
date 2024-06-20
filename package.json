@@ -1,0 +1,17 @@
+{
+  "name": "rightmove-scraper",
+  "version": "1.0.0",
+  "description": "Convert a Rightmove search into CSV",
+  "main": "test/index.test.ts",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "author": "OliverHGray",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.16.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
